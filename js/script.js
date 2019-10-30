@@ -1,4 +1,4 @@
-"user strict";
+"users strict";
 
 var = x ;
 var = a;
@@ -13,7 +13,5 @@ a= window.prompt('How old are you?');
 
 for (i=0; i < a; i++)
 {
-    
-    document.write('@' + '<br>');
-    
+    document.write('@' + '<br>');   
     {
